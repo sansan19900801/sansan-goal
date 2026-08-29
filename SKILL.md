@@ -1,6 +1,7 @@
 ---
 name: sansan-goal
 description: 提取已有约束，只追问影响执行或验收的信息，把模糊愿望和目标整理成可行动、可检查的交付物。用户要求澄清目标、检查任务是否说清或定义交付结果时使用。
+version: 1.0.1
 ---
 
 # sansan-goal：目标清晰化
@@ -401,3 +402,10 @@ description: 提取已有约束，只追问影响执行或验收的信息，把�
 
 - 用户使用中文时用中文回复，使用英文时用英文回复；
 - 中文回复遵循《中文文案排版指北》。
+
+## 作者与支持
+
+- 作者：sansan（[GitHub 主页](https://github.com/sansan19900801)）
+- 如需加入付费答疑群，可扫码或打开[答疑群说明](https://mp.weixin.qq.com/s/3wporFEz1cGNWslmZsgPKw)
+
+![付费答疑群二维码](https://raw.githubusercontent.com/sansan19900801/sansan-goal/main/assets/support-qr.jpg)
